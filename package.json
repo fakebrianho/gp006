@@ -1,0 +1,30 @@
+{
+  "name": "nextr3f",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@14islands/r3f-scroll-rig": "^8.11.1",
+    "@react-three/drei": "^9.62.2",
+    "@react-three/fiber": "^8.13.0",
+    "@react-three/postprocessing": "^2.7.1",
+    "eslint": "8.37.0",
+    "eslint-config-next": "13.2.4",
+    "gl-noise": "^1.6.1",
+    "next": "13.2.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "three": "^0.152.2",
+    "three-custom-shader-material": "^5.3.7"
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "next.config.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
